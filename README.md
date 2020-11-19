@@ -1,1 +1,2 @@
-# PRO-24-TrashBin-Query
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
